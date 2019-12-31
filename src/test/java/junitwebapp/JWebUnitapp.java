@@ -3,7 +3,7 @@ package junitwebapp;
 import org.junit.Before;
 import org.junit.Test;
 
-public class JWebUnitTest {
+public class JWebUnitapp {
     @Before
     public void prepare() {
     
